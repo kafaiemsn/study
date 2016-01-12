@@ -1,15 +1,2 @@
-<<<<<<< HEAD
-sdf
-gasdfsdd
-=======
-
-a
-a
-aa
-
-a
-a
-a
-a
-a
->>>>>>> dd81f10890b9b68c127733f11341af1a08720dba
+iphone 6:	Jacky
+iphone 6s:	-----
